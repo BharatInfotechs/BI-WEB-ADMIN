@@ -1,0 +1,16 @@
+{
+    "name": "leo/bharatinfotechs",
+    "autoload": {
+        "psr-4": {
+            "leo\\BharatInfotechs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bharat Infotechs"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
