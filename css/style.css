@@ -1084,8 +1084,9 @@ body{
     }
 
     .header .logo img{
-        width: 20%;
-        height: 3rem;
+        max-width: 100%;;
+        height: auto;
+        width: 50px;
         top: 0;
         left: 0;
         background-size: cover;
