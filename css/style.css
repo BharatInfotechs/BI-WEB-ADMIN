@@ -518,6 +518,7 @@ body{
   }
   .testimonials .testimonial-item {
     width: 100%;
+    height: auto;
     max-width: 95%;
   }
 }
