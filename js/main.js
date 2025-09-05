@@ -47,7 +47,7 @@ $(document).ready(function(){
     });
 
     $(".testimonials-carousel").owlCarousel({
-        items: 2,
+        
     margin: 45,
     autoplay: true,
     loop: true,
