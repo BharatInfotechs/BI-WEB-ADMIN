@@ -46,20 +46,17 @@ $(document).ready(function(){
         responsive: { 0: {items: 2}, 768: {items: 4}, 900: {items: 6} }
     });
 
-    $(".testimonials-carousel").owlCarousel({
-        
-    margin: 45,
-    autoplay: true,
-    loop: true,
-    nav: true,
-    dots: true,
-    responsive:{
+  $('.testimonials-carousel').owlCarousel({
+  loop: true,
+  margin: 30,
+  autoplay: true,
+  responsive:{
     0:   { items: 1 },   // phones
     768: { items: 2 },   // tablets
     1200:{ items: 3 }    // large screens
   }
-    });
-    
+});
+
     
 })(jQuery);
 
