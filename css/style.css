@@ -152,7 +152,7 @@ body{
 .home{
     min-height: 100vh;
     width: 100vw;
-    background-image: url(../images/img1.jpg);
+    background-image: url(../images/imageBG.png);
     background-size: cover;
     display: flex;
     align-items: center;
