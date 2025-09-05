@@ -18,6 +18,8 @@ body{
     overflow-x: hidden;
 }
 
+
+
 .heading, .clients .section-header h2, .section-head h1, .testimonials .section-header h2, .section-head-1 h4{
     margin: 2rem;
     padding-top: 6rem;
@@ -109,7 +111,7 @@ body{
 }
 
 .header .logo img{
-    width: 130%;
+    width: 130%;    
     height: 3rem;
     top: 0;
     left: 0;
